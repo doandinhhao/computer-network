@@ -39,13 +39,13 @@ Frontend
 
 ## 🧹 Core Functionalities
 
-Peer Registration: Register and deregister peers with the tracker.
+- Peer Registration: Register and deregister peers with the tracker.
 
-File Announcement: Peers announce available files and their chunk availability.
+- File Announcement: Peers announce available files and their chunk availability.
 
-Chunk Exchange: Peers request and serve file chunks to each other.
+- Chunk Exchange: Peers request and serve file chunks to each other.
 
-Real-time Monitoring: Web dashboard displays online peers, shared files, and transfer statistics.
+- Real-time Monitoring: Web dashboard displays online peers, shared files, and transfer statistics.
 
 ---
 
@@ -67,7 +67,7 @@ Real-time Monitoring: Web dashboard displays online peers, shared files, and tra
 - **Peer**: `npm run peer`
 - **UI**: `npm run front`
 5. Multi-peer test
-   `npm run test`
+  -  `npm run test`
   
 Visit http://localhost:5173 to view the dashboard and peer UI.
 
