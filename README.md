@@ -53,11 +53,8 @@ Real-time Monitoring: Web dashboard displays online peers, shared files, and tra
 1. Clone repository
   C:\> git clone https://github.com/doandinhhao/computer-network.git
   C:\> cd computer-network
-  ```bash
-  git clone https://github.com/doandinhhao/computer-network.git
-  cd computer-network
 2. Install dependencies
-   npm run install-all
+   C:\> npm run install-all
 3. Configure environment
    Create a .env file at project root:
       TRACKER_HOST=http://localhost
@@ -65,11 +62,11 @@ Real-time Monitoring: Web dashboard displays online peers, shared files, and tra
       PEER_PORT=3001
       FRONTEND_PORT=5173
 4. Run components
-  Tracker: npm run tracker
-  Peer:    npm run peer
-  UI:      npm run front
+  Tracker: C:\> npm run tracker
+  Peer:    C:\>npm run peer
+  UI:     C:\> npm run front
 5. Multi-peer test
-   npm run test
+   C:\>npm run test
 Visit http://localhost:5173 to view the dashboard and peer UI.
 
 📶 Local Access
