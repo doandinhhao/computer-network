@@ -14,7 +14,7 @@ This project implements a simplified BitTorrent-style network, consisting of:
 
 - Web UI: Real-time dashboard to monitor tracker and peer status.
 
-Supporting decentralized protocols and P2P interaction in controlled environments.
+Support decentralized protocols and P2P interaction in learning environments.
 
 ---
 
