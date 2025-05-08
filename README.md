@@ -51,8 +51,11 @@ Real-time Monitoring: Web dashboard displays online peers, shared files, and tra
 
 ## 🛠️ Setup Instructions
 1. Clone repository
-   git clone https://github.com/doandinhhao/computer-network.git
-   cd computer-network
+  C:\> git clone https://github.com/doandinhhao/computer-network.git
+  C:\> cd computer-network
+  ```bash
+  git clone https://github.com/doandinhhao/computer-network.git
+  cd computer-network
 2. Install dependencies
    npm run install-all
 3. Configure environment
