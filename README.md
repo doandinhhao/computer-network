@@ -1,7 +1,7 @@
 # Computer Network: Peer-to-Peer Sharing
 A full-stack project peer-to-peer file-sharing platform facilitating decentralized file distribution among multiple peers.
-> **Capstone Project** | Team Size:   
-> **Timeline**: 9/2024 - 10/2024
+> **Capstone Project** | Team Size: 1
+> **Timeline**: 5/2025 - Now
 
 ---
 
